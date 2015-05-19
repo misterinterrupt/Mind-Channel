@@ -1,3 +1,4 @@
-- Mind Channel
-  An interface to an Evernote notebook as a journal of timestamped entries.
+Mind Channel
+  - Evernote interface for journaling. 
+  - Mostly an interface for adding timestamped entries to notes.
 
